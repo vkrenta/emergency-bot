@@ -1,0 +1,8 @@
+.env
+node_modules/
+.sonarlint/
+.vscode/
+package-lock.json
+*.rar
+ngrok.exe
+.idea
